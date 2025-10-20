@@ -24,6 +24,11 @@ Minimal Flutter application that provides a practical weight-based dosage calcul
    flutter build apk --release
    ```
 
+> **Environment note:** The provided development container does not ship with the
+> Android/Flutter toolchain, so `flutter build apk` cannot run successfully here.
+> Use a locally installed Flutter SDK or the GitHub Actions workflow described
+> below to obtain the signed APK.
+
 > **Note:** Platform folders (`android`, `ios`, `web`, `windows`, `macos`, `linux`) are intentionally omitted to keep the repository lightweight. Run `flutter create .` once (after cloning) to regenerate the platform scaffolding before building or running on devices. This command preserves the contents of the `lib/`, `assets/`, and configuration files already provided.
 
 ### Medication database
