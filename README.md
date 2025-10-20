@@ -76,3 +76,10 @@ To ship a release APK without a local Flutter environment:
 1. Push the latest changes to the `main` branch (or dispatch the workflow manually from the **Actions** tab).
 2. Wait for the **Build and Release APK** workflow to succeed.
 3. Grab the universal or architecture-specific APKs either from the workflow artifacts or from the freshly published release (named `Vet Tool by Crew <version> (build <build-number>)`).
+
+#### Troubleshooting: can't find the release or APK download
+- A release will only appear after the **Build and Release APK** workflow has completed at least once on GitHub. If this repository is freshly cloned, trigger the workflow manually:
+  1. Go to **Actions → Build and Release APK → Run workflow**.
+  2. Select the branch you want to build (for example, `main`) and click **Run workflow**.
+- Once the run succeeds, open the **Releases** tab. The newest entry is titled `Vet Tool by Crew <version> (build <build-number>)`; download the APKs from the **Assets** section.
+- If the workflow fails, inspect the run logs from the Actions tab, fix the reported issue, and re-run the workflow. No release or APK will be published until a run finishes successfully.
