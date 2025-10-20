@@ -1,4 +1,4 @@
-name: Build APK
+name: Build and Release APK
 
 on:
   workflow_dispatch:
@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+    name: Build universal APK
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -22,37 +23,61 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
-      - name: Build release APK
-        run: flutter build apk --release --target-platform android-arm64
+      - name: Extract app version
+        id: version
+        run: |
+          VERSION_LINE=$(grep '^version:' pubspec.yaml | head -n1 | awk '{print $2}')
+          APP_VERSION="${VERSION_LINE%%+*}"
+          BUILD_NUMBER="${VERSION_LINE##*+}"
+          if [ "$BUILD_NUMBER" = "$VERSION_LINE" ]; then
+            BUILD_NUMBER=${GITHUB_RUN_NUMBER}
+          fi
+          echo "app_version=$APP_VERSION" >> "$GITHUB_OUTPUT"
+          echo "build_number=$BUILD_NUMBER" >> "$GITHUB_OUTPUT"
+          echo "tag=v${APP_VERSION}-build.${BUILD_NUMBER}.${GITHUB_RUN_NUMBER}" >> "$GITHUB_OUTPUT"
 
-      - name: Archive release artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VetToolByCrew-arm64-release
-          path: build/app/outputs/flutter-apk/app-release.apk
-          if-no-files-found: error
+      - name: Build universal release APK
+        run: flutter build apk --release
 
-      - name: Rename APK for release
+      - name: Build split-per-ABI release APKs
+        run: flutter build apk --release --split-per-abi
+
+      - name: Prepare dist artifacts
         run: |
           mkdir -p dist
-          cp build/app/outputs/flutter-apk/app-release.apk dist/VetToolByCrew.apk
+          cp build/app/outputs/flutter-apk/app-release.apk dist/VetToolByCrew-universal.apk
+          if [ -f build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk ]; then
+            cp build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk dist/VetToolByCrew-armeabi-v7a.apk
+          fi
+          if [ -f build/app/outputs/flutter-apk/app-arm64-v8a-release.apk ]; then
+            cp build/app/outputs/flutter-apk/app-arm64-v8a-release.apk dist/VetToolByCrew-arm64-v8a.apk
+          fi
+          if [ -f build/app/outputs/flutter-apk/app-x86_64-release.apk ]; then
+            cp build/app/outputs/flutter-apk/app-x86_64-release.apk dist/VetToolByCrew-x86_64.apk
+          fi
 
-      - name: Upload renamed APK artifact
+      - name: Upload workflow artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: VetToolByCrew-apk
-          path: dist/VetToolByCrew.apk
+          name: VetToolByCrew-apks
+          path: dist
           if-no-files-found: error
 
       - name: Publish GitHub Release
         if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
         uses: ncipollo/release-action@v1
         with:
-          artifacts: dist/VetToolByCrew.apk
+          artifacts: |
+            dist/VetToolByCrew-universal.apk
+            dist/VetToolByCrew-armeabi-v7a.apk
+            dist/VetToolByCrew-arm64-v8a.apk
+            dist/VetToolByCrew-x86_64.apk
+          artifactErrorsFailBuild: true
           artifactContentType: application/vnd.android.package-archive
-          tag: latest
-          name: Vet Tool by Crew (latest)
+          tag: ${{ steps.version.outputs.tag }}
+          name: Vet Tool by Crew ${{ steps.version.outputs.app_version }} (build ${{ steps.version.outputs.build_number }})
           body: |
-            Automated build of Vet Tool by Crew.
-            This release is refreshed whenever the build workflow runs.
-          allowUpdates: true
+            Automated build of Vet Tool by Crew from commit ${{ github.sha }}.
+            - App version: ${{ steps.version.outputs.app_version }}
+            - Workflow run: #${{ github.run_number }}
+          commit: ${{ github.sha }}
