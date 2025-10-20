@@ -44,10 +44,15 @@ jobs:
           path: dist/VetToolByCrew.apk
           if-no-files-found: error
 
-      - name: Create GitHub Release
-        if: github.event_name == 'workflow_dispatch'
-        uses: softprops/action-gh-release@v2
+      - name: Publish GitHub Release
+        if: ${{ github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch' }}
+        uses: ncipollo/release-action@v1
         with:
-          files: dist/VetToolByCrew.apk
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: dist/VetToolByCrew.apk
+          artifactContentType: application/vnd.android.package-archive
+          tag: latest
+          name: Vet Tool by Crew (latest)
+          body: |
+            Automated build of Vet Tool by Crew.
+            This release is refreshed whenever the build workflow runs.
+          allowUpdates: true

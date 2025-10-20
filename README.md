@@ -70,9 +70,9 @@ This repository includes `.github/workflows/build-apk.yml`, which:
 1. Sets up Flutter 3.22 on Ubuntu runners.
 2. Installs dependencies and builds an ARM64 release APK.
 3. Publishes the APK as two workflow artifacts: the raw Flutter output and a renamed `VetToolByCrew.apk`.
-4. When triggered manually via **Run workflow**, automatically creates a GitHub release that attaches `VetToolByCrew.apk` using the built-in `GITHUB_TOKEN`.
+4. Updates (or creates) a GitHub release tagged `latest` with the freshly built `VetToolByCrew.apk` whenever the workflow runs on `main` or via a manual dispatch.
 
 To ship a release APK without a local Flutter environment:
-1. Push the latest changes to the `main` branch (or dispatch the workflow manually).
+1. Push the latest changes to the `main` branch (or dispatch the workflow manually from the **Actions** tab).
 2. Wait for the **Build APK** workflow to succeed.
-3. Download `VetToolByCrew.apk` from the workflow artifacts or from the release created by the manual dispatch run.
+3. Download `VetToolByCrew.apk` either from the workflow artifacts or from the automatically refreshed `latest` GitHub release.
