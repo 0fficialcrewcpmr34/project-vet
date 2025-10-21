@@ -1,0 +1,82 @@
+/* VetDose Pro — modern, clean, responsive */
+:root{
+  --bg:#0b0d10; --panel:#0f1419; --card:#12161b; --muted:#9aa5b1; --text:#f0f5fb;
+  --border:#1e2732; --accent:#22d3ee; --accent-2:#6ee7b7; --warn:#f59e0b; --error:#ef4444;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0; font-family:Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background:linear-gradient(180deg, #0b0d10, #0c1116); color:var(--text)}
+
+.app{display:grid; grid-template-columns:260px 1fr; min-height:100vh}
+.sidebar{background:var(--panel); border-right:1px solid var(--border); padding:16px; display:flex; flex-direction:column; gap:16px}
+.brand{display:flex; align-items:center; gap:12px}
+.logo{font-size:28px}
+.brand-text h1{margin:0; font-size:20px}
+.brand-text .pro{color:var(--accent)}
+.brand .mini{color:var(--muted); font-size:12px; margin-top:2px}
+.nav{display:grid; gap:8px}
+.nav-btn{padding:10px 12px; border-radius:12px; border:1px solid var(--border); background:#0c1217; color:var(--text); cursor:pointer; text-align:left}
+.nav-btn.active{outline:2px solid var(--accent);}
+.nav-btn:hover{filter:brightness(1.1)}
+
+.sidebar-footer{margin-top:auto; border-top:1px solid var(--border); padding-top:12px}
+.file-uploader{display:inline-grid; border:1px dashed var(--border); border-radius:10px; padding:10px; cursor:pointer; margin-top:8px; background:#0b1116}
+.file-uploader input{display:none}
+.file-uploader span{color:var(--accent-2)}
+
+.content{padding:16px}
+.topbar{display:flex; gap:12px; align-items:center; margin-bottom:12px}
+.search{flex:1; padding:12px; border-radius:12px; border:1px solid var(--border); background:#0d1318; color:var(--text)}
+.toggles{display:flex; gap:8px; align-items:center}
+input, select, button{border:1px solid var(--border); background:#0d1318; color:var(--text); border-radius:12px; padding:10px}
+
+.ghost{background:transparent}
+.panes{display:grid; grid-template-columns: 1.2fr 1fr; gap:12px}
+.pane{background:var(--card); border:1px solid var(--border); border-radius:16px; padding:12px; min-height:480px}
+.pane-title{margin:6px 4px 12px 4px; color:var(--muted); font-weight:600}
+
+.list{display:grid; gap:8px; overflow:auto; max-height:70vh; padding-right:4px}
+.item{display:grid; gap:6px; padding:10px; border:1px solid var(--border); border-radius:12px; background:#0c1217; cursor:pointer}
+.item:hover{border-color:#2a3643}
+.item .name{font-weight:600}
+.badges{display:flex; gap:6px; flex-wrap:wrap}
+.badge{font-size:11px; color:#0d1318; background:var(--accent-2); padding:4px 8px; border-radius:999px}
+
+.card{border:1px solid var(--border); border-radius:16px; background:#0c1217; min-height:200px; padding:12px}
+.empty{display:grid; place-items:center; color:var(--muted)}
+.grid-2{display:grid; grid-template-columns:1fr 1fr; gap:10px}
+.grid-3{display:grid; grid-template-columns:repeat(3,1fr); gap:10px}
+.input-suffix{display:flex; align-items:center; gap:8px}
+.input-suffix span{padding:6px 8px; border:1px solid var(--border); border-radius:10px; background:#0b1015; color:var(--muted)}
+.input-suffix.compact input{width:110px}
+
+.kpis{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-top:10px}
+.kpi{background:#0b1015; border:1px solid var(--border); border-radius:14px; padding:12px}
+.kpi .label{color:var(--muted); font-size:12px}
+.kpi .value{font-size:24px; font-weight:700; margin-top:6px}
+.kpi .sub{color:var(--muted); font-size:12px}
+
+.actions{display:flex; gap:8px; margin-top:10px}
+button.primary{background:linear-gradient(180deg,#16222b,#0f171d)}
+button.primary:hover{filter:brightness(1.07)}
+button:disabled{opacity:.6; cursor:not-allowed}
+
+.table{border:1px solid var(--border); border-radius:16px; overflow:hidden}
+.table .thead, .table .row{display:grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap:8px}
+.table .thead{background:#0b1015; font-weight:600; padding:10px}
+.table .row{padding:10px; border-top:1px solid var(--border)}
+.table .row:nth-child(odd){background:#0b1013}
+
+.help{background:var(--card); border:1px solid var(--border); border-radius:16px; padding:16px}
+.schema{margin-top:10px}
+pre{white-space:pre-wrap; background:#0b1015; border:1px solid var(--border); padding:12px; border-radius:12px; color:#d1e2ff}
+
+.toast{position:fixed; bottom:16px; right:16px; padding:12px 14px; border-radius:10px; background:#0b1015; border:1px solid var(--border)}
+.hidden{display:none}
+
+@media (max-width: 980px){
+  .app{grid-template-columns: 1fr}
+  .sidebar{position:sticky; top:0; z-index:2}
+  .panes{grid-template-columns: 1fr}
+}

@@ -1,0 +1,7330 @@
+{
+  "schema_version": 1,
+  "actualizado": "2025-10-21",
+  "medicamentos": [
+    {
+      "id": "amoxicilina",
+      "nombre": "Amoxicilina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ampicilina",
+      "nombre": "Ampicilina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "penicilina_g",
+      "nombre": "Penicilina G",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "penicilina_proca_na",
+      "nombre": "Penicilina Procaína",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "oxitetraciclina",
+      "nombre": "Oxitetraciclina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "doxiciclina",
+      "nombre": "Doxiciclina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "enrofloxacina",
+      "nombre": "Enrofloxacina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ciprofloxacina",
+      "nombre": "Ciprofloxacina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "norfloxacina",
+      "nombre": "Norfloxacina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "florfenicol",
+      "nombre": "Florfenicol",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tilmicosina",
+      "nombre": "Tilmicosina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tulatromicina",
+      "nombre": "Tulatromicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "eritromicina",
+      "nombre": "Eritromicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tilosina",
+      "nombre": "Tilosina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "gentamicina",
+      "nombre": "Gentamicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "neomicina",
+      "nombre": "Neomicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "kanamicina",
+      "nombre": "Kanamicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "amikacina",
+      "nombre": "Amikacina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cloranfenicol",
+      "nombre": "Cloranfenicol",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "lincomicina",
+      "nombre": "Lincomicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "clindamicina",
+      "nombre": "Clindamicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ceftiofur",
+      "nombre": "Ceftiofur",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cefalexina",
+      "nombre": "Cefalexina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ceftriaxona",
+      "nombre": "Ceftriaxona",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cefotaxima",
+      "nombre": "Cefotaxima",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sulfadiazina",
+      "nombre": "Sulfadiazina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sulfametoxazol",
+      "nombre": "Sulfametoxazol",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "trimetoprima",
+      "nombre": "Trimetoprima",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sulfadiazina_trimetoprima",
+      "nombre": "Sulfadiazina-Trimetoprima",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "metronidazol",
+      "nombre": "Metronidazol",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "rifampicina",
+      "nombre": "Rifampicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vancomicina",
+      "nombre": "Vancomicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "imipenem",
+      "nombre": "Imipenem",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "meropenem",
+      "nombre": "Meropenem",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "spiramicina",
+      "nombre": "Spiramicina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "oxacilina",
+      "nombre": "Oxacilina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ticarcilina",
+      "nombre": "Ticarcilina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "piperacilina",
+      "nombre": "Piperacilina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "polimixina_b",
+      "nombre": "Polimixina B",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "colistina",
+      "nombre": "Colistina",
+      "categoria": "Antibióticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ivermectina",
+      "nombre": "Ivermectina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "doramectina",
+      "nombre": "Doramectina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "eprinomectina",
+      "nombre": "Eprinomectina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "moxidectina",
+      "nombre": "Moxidectina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "albendazol",
+      "nombre": "Albendazol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fenbendazol",
+      "nombre": "Fenbendazol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "oxfendazol",
+      "nombre": "Oxfendazol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tiabendazol",
+      "nombre": "Tiabendazol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "levamisol",
+      "nombre": "Levamisol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "pamoato_de_pirantel",
+      "nombre": "Pamoato de pirantel",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "praziquantel",
+      "nombre": "Praziquantel",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "triclabendazol",
+      "nombre": "Triclabendazol",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "closantel",
+      "nombre": "Closantel",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "nitroxynil",
+      "nombre": "Nitroxynil",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "rafoxanida",
+      "nombre": "Rafoxanida",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "clorsul_n",
+      "nombre": "Clorsulón",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "piperazina",
+      "nombre": "Piperazina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "nitenpiram",
+      "nombre": "Nitenpiram",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "lufenur_n",
+      "nombre": "Lufenurón",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fipronil",
+      "nombre": "Fipronil",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "imidacloprid",
+      "nombre": "Imidacloprid",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "selamectina",
+      "nombre": "Selamectina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fluralaner",
+      "nombre": "Fluralaner",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "afoxolaner",
+      "nombre": "Afoxolaner",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sarolaner",
+      "nombre": "Sarolaner",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "lotilaner",
+      "nombre": "Lotilaner",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "tópica",
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Spot-on (mg/mL genérico)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "milbemicina_oxima",
+      "nombre": "Milbemicina oxima",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "espinosad",
+      "nombre": "Espinosad",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "monepantel",
+      "nombre": "Monepantel",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "emodepsida",
+      "nombre": "Emodepsida",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "toltrazuril",
+      "nombre": "Toltrazuril",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "diclazuril",
+      "nombre": "Diclazuril",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "amprolio",
+      "nombre": "Amprolio",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sulfaquinoxalina",
+      "nombre": "Sulfaquinoxalina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "decoquinato",
+      "nombre": "Decoquinato",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "monensina",
+      "nombre": "Monensina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "lasalocida",
+      "nombre": "Lasalocida",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "salinomicina",
+      "nombre": "Salinomicina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "narasina",
+      "nombre": "Narasina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "maduramicina",
+      "nombre": "Maduramicina",
+      "categoria": "Antiparasitarios",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "meloxicam",
+      "nombre": "Meloxicam",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "carprofeno",
+      "nombre": "Carprofeno",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "firocoxib",
+      "nombre": "Firocoxib",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "deracoxib",
+      "nombre": "Deracoxib",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "flunixin_meglumine",
+      "nombre": "Flunixin meglumine",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ketoprofeno",
+      "nombre": "Ketoprofeno",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fenilbutazona",
+      "nombre": "Fenilbutazona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "aspirina",
+      "nombre": "Aspirina",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "naproxeno",
+      "nombre": "Naproxeno",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "diclofenaco",
+      "nombre": "Diclofenaco",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ibuprofeno_uso_restringido",
+      "nombre": "Ibuprofeno (uso restringido)",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "paracetamol_uso_restringido",
+      "nombre": "Paracetamol (uso restringido)",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "metamizol_s_dico",
+      "nombre": "Metamizol sódico",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "prednisolona",
+      "nombre": "Prednisolona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dexametasona",
+      "nombre": "Dexametasona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "betametasona",
+      "nombre": "Betametasona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "triamcinolona",
+      "nombre": "Triamcinolona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "hidrocortisona",
+      "nombre": "Hidrocortisona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "isoflupredona",
+      "nombre": "Isoflupredona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "flumetasona",
+      "nombre": "Flumetasona",
+      "categoria": "Antiinflamatorios/Analgésicos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ketamina",
+      "nombre": "Ketamina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tiletamina",
+      "nombre": "Tiletamina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "zolazepam",
+      "nombre": "Zolazepam",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "midazolam",
+      "nombre": "Midazolam",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "diazepam",
+      "nombre": "Diazepam",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "xilazina",
+      "nombre": "Xilazina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "medetomidina",
+      "nombre": "Medetomidina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dexmedetomidina",
+      "nombre": "Dexmedetomidina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "atipamezol",
+      "nombre": "Atipamezol",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "propofol",
+      "nombre": "Propofol",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tiopental_s_dico",
+      "nombre": "Tiopental sódico",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "isoflurano",
+      "nombre": "Isoflurano",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sevoflurano",
+      "nombre": "Sevoflurano",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "halotano",
+      "nombre": "Halotano",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "lidoca_na",
+      "nombre": "Lidocaína",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "bupivaca_na",
+      "nombre": "Bupivacaína",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "proca_na",
+      "nombre": "Procaína",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable",
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "etomidato",
+      "nombre": "Etomidato",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "acepromazina",
+      "nombre": "Acepromazina",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "butorfanol",
+      "nombre": "Butorfanol",
+      "categoria": "Anestésicos/Sedantes",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "oxitocina",
+      "nombre": "Oxitocina",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dinoprost",
+      "nombre": "Dinoprost",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cloprostenol",
+      "nombre": "Cloprostenol",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "altrenogest",
+      "nombre": "Altrenogest",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "progesterona",
+      "nombre": "Progesterona",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "estradiol_benzoato",
+      "nombre": "Estradiol benzoato",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "testosterona_propionato",
+      "nombre": "Testosterona propionato",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "gnrh_buserelina",
+      "nombre": "GnRH (Buserelina)",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "deslorelina",
+      "nombre": "Deslorelina",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cabergolina",
+      "nombre": "Cabergolina",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "domperidona",
+      "nombre": "Domperidona",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "melatonina",
+      "nombre": "Melatonina",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "flutamida",
+      "nombre": "Flutamida",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "finasterida",
+      "nombre": "Finasterida",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "hcg_gonadotrofina_cori_nica",
+      "nombre": "HCG (Gonadotrofina coriónica)",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "pmsg_gonadotrofina_s_rica",
+      "nombre": "PMSG (Gonadotrofina sérica)",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dexametasona_inductor_de_parto",
+      "nombre": "Dexametasona (inductor de parto)",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "clorhexidina_uso_vaginal",
+      "nombre": "Clorhexidina (uso vaginal)",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "misoprostol",
+      "nombre": "Misoprostol",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "letrozol",
+      "nombre": "Letrozol",
+      "categoria": "Hormonales/Reproductivos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "calcio_borogluconato",
+      "nombre": "Calcio borogluconato",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "gluconato_de_calcio",
+      "nombre": "Gluconato de calcio",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "magnesio_sulfato",
+      "nombre": "Magnesio sulfato",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "sodio_cloruro",
+      "nombre": "Sodio cloruro",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "potasio_cloruro",
+      "nombre": "Potasio cloruro",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dextrosa",
+      "nombre": "Dextrosa",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "suero_ringer_lactato",
+      "nombre": "Suero Ringer Lactato",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "soluci_n_hartmann",
+      "nombre": "Solución Hartmann",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vitaminas_a_d_e",
+      "nombre": "Vitaminas A, D, E",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "complejo_b_inyectable",
+      "nombre": "Complejo B inyectable",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vitamina_c",
+      "nombre": "Vitamina C",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "biotina",
+      "nombre": "Biotina",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cido_f_lico",
+      "nombre": "Ácido fólico",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "hierro_dextrano",
+      "nombre": "Hierro dextrano",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cobre_sulfato",
+      "nombre": "Cobre sulfato",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "zinc_xido",
+      "nombre": "Zinc óxido",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "manganeso",
+      "nombre": "Manganeso",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "selenio",
+      "nombre": "Selenio",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "yodo",
+      "nombre": "Yodo",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "cobalto",
+      "nombre": "Cobalto",
+      "categoria": "Electrolitos/Suplementos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_antirr_bica",
+      "nombre": "Vacuna antirrábica",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_polivalente_canina_moquillo_parvo_hepatitis_etc",
+      "nombre": "Vacuna polivalente canina (Moquillo, Parvo, Hepatitis, etc.)",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_leptospirosis",
+      "nombre": "Vacuna leptospirosis",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_bordetella",
+      "nombre": "Vacuna bordetella",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_influenza_canina",
+      "nombre": "Vacuna influenza canina",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_coronavirus_canino",
+      "nombre": "Vacuna coronavirus canino",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_felina_triple_panleucopenia_calicivirus_herpesvirus",
+      "nombre": "Vacuna felina triple (Panleucopenia, Calicivirus, Herpesvirus)",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_leucemia_felina",
+      "nombre": "Vacuna leucemia felina",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_fiv",
+      "nombre": "Vacuna FIV",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_brucelosis",
+      "nombre": "Vacuna brucelosis",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_carbunco",
+      "nombre": "Vacuna carbunco",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_fiebre_aftosa",
+      "nombre": "Vacuna fiebre aftosa",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_peste_porcina",
+      "nombre": "Vacuna peste porcina",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_newcastle",
+      "nombre": "Vacuna Newcastle",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_gumboro",
+      "nombre": "Vacuna Gumboro",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_marek",
+      "nombre": "Vacuna Marek",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_salmonella",
+      "nombre": "Vacuna Salmonella",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_clostridiosis",
+      "nombre": "Vacuna Clostridiosis",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_rabia_bovina",
+      "nombre": "Vacuna rabia bovina",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vacuna_rotavirus_coronavirus_bovino",
+      "nombre": "Vacuna rotavirus-coronavirus bovino",
+      "categoria": "Vacunas",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "inyectable",
+          "descripcion": "Biológica (dosis por volumen fijo)",
+          "concentracion_mg_ml": null
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ketoconazol",
+      "nombre": "Ketoconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "itraconazol",
+      "nombre": "Itraconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fluconazol",
+      "nombre": "Fluconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "clotrimazol",
+      "nombre": "Clotrimazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "miconazol",
+      "nombre": "Miconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "enilconazol",
+      "nombre": "Enilconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "griseofulvina",
+      "nombre": "Griseofulvina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "nistatina",
+      "nombre": "Nistatina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "terbinafina",
+      "nombre": "Terbinafina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "posaconazol",
+      "nombre": "Posaconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "amorolfina",
+      "nombre": "Amorolfina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "econazol",
+      "nombre": "Econazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tiabendazol_uso_alternativo",
+      "nombre": "Tiabendazol (uso alternativo)",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "voriconazol",
+      "nombre": "Voriconazol",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "natamicina",
+      "nombre": "Natamicina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "anfotericina_b",
+      "nombre": "Anfotericina B",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "caspofungina",
+      "nombre": "Caspofungina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "micafungina",
+      "nombre": "Micafungina",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "ciclopirox",
+      "nombre": "Ciclopirox",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tolnaftato",
+      "nombre": "Tolnaftato",
+      "categoria": "Antimicóticos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "azul_de_metileno",
+      "nombre": "Azul de metileno",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "atropina",
+      "nombre": "Atropina",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "pralidoxima",
+      "nombre": "Pralidoxima",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fomepizol",
+      "nombre": "Fomepizol",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "n_acetilciste_na",
+      "nombre": "N-acetilcisteína",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "tiosulfato_de_sodio",
+      "nombre": "Tiosulfato de sodio",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "etanol_ant_doto_metanol",
+      "nombre": "Etanol (antídoto metanol)",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "calcio_edta",
+      "nombre": "Calcio EDTA",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dimercaprol",
+      "nombre": "Dimercaprol",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "penicilamina",
+      "nombre": "Penicilamina",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "vitamina_k1",
+      "nombre": "Vitamina K1",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "carb_n_activado",
+      "nombre": "Carbón activado",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "glucosa_hipert_nica",
+      "nombre": "Glucosa hipertónica",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "flumazenil",
+      "nombre": "Flumazenil",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "naloxona",
+      "nombre": "Naloxona",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "neostigmina",
+      "nombre": "Neostigmina",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "fisostigmina",
+      "nombre": "Fisostigmina",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "glicina",
+      "nombre": "Glicina",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "dantroleno",
+      "nombre": "Dantroleno",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    },
+    {
+      "id": "propranolol",
+      "nombre": "Propranolol",
+      "categoria": "Antitóxicos/Antídotos",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato",
+        "bovino",
+        "porcino",
+        "ovino",
+        "caprino",
+        "aves"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL (genérica)",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL (genérica)",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {},
+      "max_dosis_total_mg": null,
+      "notas": "SIN DOSIS: completar con ficha técnica validada antes de uso clínico."
+    }
+  ]
+}

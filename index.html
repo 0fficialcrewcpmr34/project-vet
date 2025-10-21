@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VetDose Pro — Calculadora de dosis (Perros y Gatos)</title>
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">🐾</div>
+        <div class="brand-text">
+          <h1>VetDose <span class="pro">Pro</span></h1>
+          <div class="mini">Calculadora clínica</div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <button class="nav-btn active" data-view="calc">Calculadora</button>
+        <button class="nav-btn" data-view="explorar">Explorar</button>
+        <button class="nav-btn" data-view="ayuda">Ayuda</button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="tip">📦 Carga tu <code>medicamentos.json</code>:</div>
+        <label class="file-uploader">
+          <input type="file" id="fileInput" accept=".json" />
+          <span>Seleccionar archivo</span>
+        </label>
+        <small class="muted">Actualizado: <span id="dbDate">—</span></small>
+      </div>
+    </aside>
+
+    <main class="content">
+      <!-- CALCULATOR VIEW -->
+      <section class="view show" id="view-calc">
+        <header class="topbar">
+          <input id="buscar" class="search" placeholder="Buscar medicamento (ej. enrofloxacina, amoxi...)" />
+          <div class="toggles">
+            <select id="especie">
+              <option value="perro">Perro</option>
+              <option value="gato">Gato</option>
+            </select>
+            <div class="input-suffix compact">
+              <input id="peso" type="number" min="0" step="0.01" placeholder="Peso" />
+              <span>kg</span>
+            </div>
+            <button id="btnLimpiar" class="ghost">Limpiar</button>
+          </div>
+        </header>
+
+        <div class="panes">
+          <div class="pane left">
+            <h2 class="pane-title">Resultados</h2>
+            <div id="lista" class="list"></div>
+          </div>
+
+          <div class="pane right">
+            <h2 class="pane-title">Ficha y cálculo</h2>
+            <div id="ficha" class="card empty">
+              <div class="empty-msg">Busca y selecciona un medicamento</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- EXPLORAR VIEW -->
+      <section class="view" id="view-explorar">
+        <div class="explore-header">
+          <h2>Explorar base de datos</h2>
+          <div class="filters">
+            <label>Vía
+              <select id="filtroVia">
+                <option value="">Todas</option>
+                <option>oral</option>
+                <option>inyectable</option>
+                <option>tópica</option>
+                <option>ótica</option>
+                <option>oftálmica</option>
+              </select>
+            </label>
+            <label>Especie
+              <select id="filtroEspecie">
+                <option value="">Perro y Gato</option>
+                <option value="perro">Perro</option>
+                <option value="gato">Gato</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div id="tabla" class="table"></div>
+      </section>
+
+      <!-- AYUDA VIEW -->
+      <section class="view" id="view-ayuda">
+        <div class="help">
+          <h2>Cómo usar VetDose Pro</h2>
+          <ol>
+            <li>Escribe en el buscador y elige un medicamento.</li>
+            <li>Selecciona especie, vía y presentación.</li>
+            <li>Introduce el peso. La dosis (mg/kg) y el intervalo se proponen automáticamente si hay rango.</li>
+            <li>Pulsa <strong>Calcular</strong> para ver mg totales y mL.</li>
+          </ol>
+          <details class="schema">
+            <summary>Ver esquema de <code>medicamentos.json</code></summary>
+            <pre><code id="schemaBlock"></code></pre>
+          </details>
+          <p class="muted">Descargo de responsabilidad: herramienta informativa; no sustituye el juicio clínico. Verifique fichas técnicas y literatura actual.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+  <script src="app.js"></script>
+  <script>
+  if ("serviceWorker" in navigator) { navigator.serviceWorker.register("sw.js"); }
+  </script>
+</body>
+</html>

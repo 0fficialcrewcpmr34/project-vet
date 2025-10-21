@@ -1,0 +1,2242 @@
+{
+  "schema_version": 1,
+  "actualizado": "2025-10-21",
+  "medicamentos": [
+    {
+      "id": "amoxicilina_clavulanato",
+      "nombre": "Amoxicilina + Ácido clavulánico",
+      "sinonimos": [
+        "amoxiclav",
+        "amoxi-clav"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Suspensión 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Comprimido 250 mg",
+          "concentracion_mg_unidad": 250
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 140 mg/mL",
+          "concentracion_mg_ml": 140
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            12.5,
+            25
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            12.5,
+            25
+          ],
+          "intervalo_horas": 12
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "Ejemplo; confirmar siempre con ficha técnica."
+    },
+    {
+      "id": "enrofloxacina",
+      "nombre": "Enrofloxacina",
+      "sinonimos": [
+        "baytril"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 25 mg/mL",
+          "concentracion_mg_ml": 25
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 50 mg/mL",
+          "concentracion_mg_ml": 50
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5,
+            20
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            5,
+            10
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "Ejemplo; evitar en animales en crecimiento."
+    },
+    {
+      "id": "meloxicam",
+      "nombre": "Meloxicam",
+      "sinonimos": [],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 1.5 mg/mL",
+          "concentracion_mg_ml": 1.5
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 5 mg/mL",
+          "concentracion_mg_ml": 5
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            0.1,
+            0.2
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            0.05,
+            0.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "Ejemplo; no combinar con otros AINE."
+    },
+    {
+      "id": "demo_001",
+      "nombre": "Medicamento DEMO 001",
+      "sinonimos": [
+        "Demo001"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.5,
+            10.2
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.1,
+            7.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_002",
+      "nombre": "Medicamento DEMO 002",
+      "sinonimos": [
+        "Demo002"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            12.4
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_003",
+      "nombre": "Medicamento DEMO 003",
+      "sinonimos": [
+        "Demo003"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            13.1
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_004",
+      "nombre": "Medicamento DEMO 004",
+      "sinonimos": [
+        "Demo004"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.5,
+            15.3
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.9,
+            8.9
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_005",
+      "nombre": "Medicamento DEMO 005",
+      "sinonimos": [
+        "Demo005"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.0,
+            14.0
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.8,
+            9.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_006",
+      "nombre": "Medicamento DEMO 006",
+      "sinonimos": [
+        "Demo006"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.0,
+            14.7
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.8,
+            9.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_007",
+      "nombre": "Medicamento DEMO 007",
+      "sinonimos": [
+        "Demo007"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            2.5,
+            9.9
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.5,
+            6.5
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_008",
+      "nombre": "Medicamento DEMO 008",
+      "sinonimos": [
+        "Demo008"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.0,
+            12.1
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.4,
+            7.4
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_009",
+      "nombre": "Medicamento DEMO 009",
+      "sinonimos": [
+        "Demo009"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.0,
+            12.8
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.4,
+            7.4
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_010",
+      "nombre": "Medicamento DEMO 010",
+      "sinonimos": [
+        "Demo010"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "tópica",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.5,
+            11.5
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.3,
+            8.3
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_011",
+      "nombre": "Medicamento DEMO 011",
+      "sinonimos": [
+        "Demo011"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.0,
+            13.7
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.2,
+            9.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_012",
+      "nombre": "Medicamento DEMO 012",
+      "sinonimos": [
+        "Demo012"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.0,
+            14.4
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.2,
+            9.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_013",
+      "nombre": "Medicamento DEMO 013",
+      "sinonimos": [
+        "Demo013"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.5,
+            16.6
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            5.1,
+            10.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_014",
+      "nombre": "Medicamento DEMO 014",
+      "sinonimos": [
+        "Demo014"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.0,
+            11.8
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.7999999999999998,
+            6.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_015",
+      "nombre": "Medicamento DEMO 015",
+      "sinonimos": [
+        "Demo015"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.0,
+            9.0
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.7999999999999998,
+            6.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_016",
+      "nombre": "Medicamento DEMO 016",
+      "sinonimos": [
+        "Demo016"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.5,
+            11.2
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.6999999999999997,
+            7.699999999999999
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_017",
+      "nombre": "Medicamento DEMO 017",
+      "sinonimos": [
+        "Demo017"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.0,
+            13.4
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.5999999999999996,
+            8.6
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_018",
+      "nombre": "Medicamento DEMO 018",
+      "sinonimos": [
+        "Demo018"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.0,
+            14.1
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.5999999999999996,
+            8.6
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_019",
+      "nombre": "Medicamento DEMO 019",
+      "sinonimos": [
+        "Demo019"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.5,
+            16.3
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.5,
+            9.5
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_020",
+      "nombre": "Medicamento DEMO 020",
+      "sinonimos": [
+        "Demo020"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "tópica",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            9.0,
+            15.0
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            5.3999999999999995,
+            10.399999999999999
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_021",
+      "nombre": "Medicamento DEMO 021",
+      "sinonimos": [
+        "Demo021"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            2.0,
+            8.7
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.2,
+            6.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_022",
+      "nombre": "Medicamento DEMO 022",
+      "sinonimos": [
+        "Demo022"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.5,
+            10.9
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.1,
+            7.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_023",
+      "nombre": "Medicamento DEMO 023",
+      "sinonimos": [
+        "Demo023"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            13.1
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_024",
+      "nombre": "Medicamento DEMO 024",
+      "sinonimos": [
+        "Demo024"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            13.8
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_025",
+      "nombre": "Medicamento DEMO 025",
+      "sinonimos": [
+        "Demo025"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.5,
+            12.5
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.9,
+            8.9
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_026",
+      "nombre": "Medicamento DEMO 026",
+      "sinonimos": [
+        "Demo026"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.0,
+            14.7
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.8,
+            9.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_027",
+      "nombre": "Medicamento DEMO 027",
+      "sinonimos": [
+        "Demo027"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.0,
+            15.4
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.8,
+            9.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_028",
+      "nombre": "Medicamento DEMO 028",
+      "sinonimos": [
+        "Demo028"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            2.5,
+            10.6
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.5,
+            6.5
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_029",
+      "nombre": "Medicamento DEMO 029",
+      "sinonimos": [
+        "Demo029"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.0,
+            12.8
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.4,
+            7.4
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_030",
+      "nombre": "Medicamento DEMO 030",
+      "sinonimos": [
+        "Demo030"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "tópica",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.0,
+            10.0
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.4,
+            7.4
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_031",
+      "nombre": "Medicamento DEMO 031",
+      "sinonimos": [
+        "Demo031"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.5,
+            12.2
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.3,
+            8.3
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_032",
+      "nombre": "Medicamento DEMO 032",
+      "sinonimos": [
+        "Demo032"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.0,
+            14.4
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.2,
+            9.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_033",
+      "nombre": "Medicamento DEMO 033",
+      "sinonimos": [
+        "Demo033"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.0,
+            15.1
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.2,
+            9.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_034",
+      "nombre": "Medicamento DEMO 034",
+      "sinonimos": [
+        "Demo034"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.5,
+            17.3
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            5.1,
+            10.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_035",
+      "nombre": "Medicamento DEMO 035",
+      "sinonimos": [
+        "Demo035"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.0,
+            9.0
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.7999999999999998,
+            6.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_036",
+      "nombre": "Medicamento DEMO 036",
+      "sinonimos": [
+        "Demo036"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.0,
+            9.7
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.7999999999999998,
+            6.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_037",
+      "nombre": "Medicamento DEMO 037",
+      "sinonimos": [
+        "Demo037"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            4.5,
+            11.9
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.6999999999999997,
+            7.699999999999999
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_038",
+      "nombre": "Medicamento DEMO 038",
+      "sinonimos": [
+        "Demo038"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.0,
+            14.1
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.5999999999999996,
+            8.6
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_039",
+      "nombre": "Medicamento DEMO 039",
+      "sinonimos": [
+        "Demo039"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.0,
+            14.8
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.5999999999999996,
+            8.6
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_040",
+      "nombre": "Medicamento DEMO 040",
+      "sinonimos": [
+        "Demo040"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "tópica"
+      ],
+      "presentaciones": [
+        {
+          "via": "tópica",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "tópica",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            7.5,
+            13.5
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.5,
+            9.5
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_041",
+      "nombre": "Medicamento DEMO 041",
+      "sinonimos": [
+        "Demo041"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            9.0,
+            15.7
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            5.3999999999999995,
+            10.399999999999999
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_042",
+      "nombre": "Medicamento DEMO 042",
+      "sinonimos": [
+        "Demo042"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            2.0,
+            9.4
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            1.2,
+            6.2
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_043",
+      "nombre": "Medicamento DEMO 043",
+      "sinonimos": [
+        "Demo043"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            3.5,
+            11.6
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            2.1,
+            7.1
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_044",
+      "nombre": "Medicamento DEMO 044",
+      "sinonimos": [
+        "Demo044"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            13.8
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_045",
+      "nombre": "Medicamento DEMO 045",
+      "sinonimos": [
+        "Demo045"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "oral",
+          "descripcion": "Crema 10 mg/g",
+          "concentracion_mg_unidad": 10
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            5.0,
+            11.0
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.0,
+            8.0
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_046",
+      "nombre": "Medicamento DEMO 046",
+      "sinonimos": [
+        "Demo046"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            6.5,
+            13.2
+          ],
+          "intervalo_horas": 12
+        },
+        "gato": {
+          "rango_mg_kg": [
+            3.9,
+            8.9
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    },
+    {
+      "id": "demo_047",
+      "nombre": "Medicamento DEMO 047",
+      "sinonimos": [
+        "Demo047"
+      ],
+      "especies": [
+        "perro",
+        "gato"
+      ],
+      "vias": [
+        "oral",
+        "inyectable"
+      ],
+      "presentaciones": [
+        {
+          "via": "oral",
+          "descripcion": "Solución 50 mg/mL",
+          "concentracion_mg_ml": 50
+        },
+        {
+          "via": "inyectable",
+          "descripcion": "Inyectable 100 mg/mL",
+          "concentracion_mg_ml": 100
+        }
+      ],
+      "dosis": {
+        "perro": {
+          "rango_mg_kg": [
+            8.0,
+            15.4
+          ],
+          "intervalo_horas": 24
+        },
+        "gato": {
+          "rango_mg_kg": [
+            4.8,
+            9.8
+          ],
+          "intervalo_horas": 24
+        }
+      },
+      "max_dosis_total_mg": null,
+      "notas": "DEMO: reemplazar con datos validados; no usar clínicamente."
+    }
+  ]
+}
