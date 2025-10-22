@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Amoxicillin",
+    "species": ["dog", "cat"],
+    "commonUse": "Broad-spectrum beta-lactam antibiotic.",
+    "routes": [
+      {
+        "name": "Oral",
+        "dosage": {
+          "minPerKg": 11,
+          "maxPerKg": 15,
+          "unit": "mg/kg",
+          "label": "q12h with food"
+        },
+        "frequency": "Every 12 hours",
+        "notes": "Do not exceed 30 mg/kg/day without justification."
+      }
+    ]
+  },
+  {
+    "name": "Buprenorphine",
+    "species": ["cat"],
+    "commonUse": "Partial mu-opioid agonist for analgesia.",
+    "routes": [
+      {
+        "name": "Transmucosal",
+        "dosage": {
+          "perKg": 0.02,
+          "unit": "mg/kg",
+          "label": "q8h as needed"
+        },
+        "frequency": "Every 6-8 hours",
+        "notes": "Allow contact with oral mucosa for at least 1 minute."
+      }
+    ]
+  },
+  {
+    "name": "Carprofen",
+    "species": ["dog"],
+    "commonUse": "NSAID for osteoarthritis pain and inflammation.",
+    "routes": [
+      {
+        "name": "Oral",
+        "dosage": {
+          "perKg": 4,
+          "minPerKg": 2,
+          "maxPerKg": 4,
+          "unit": "mg/kg",
+          "label": "q12h or once daily"
+        },
+        "frequency": "Every 12 hours or once daily",
+        "maxTotalDoseMg": 200,
+        "notes": "Use lowest effective dose and monitor liver enzymes."
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+.melos_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/.gradle/
+android/local.properties
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/Pods/
+web/.dart_tool/
